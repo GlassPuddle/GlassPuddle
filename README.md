@@ -1,22 +1,4 @@
-## Hi there 👋
-  __________________________________________________________
- /                   Arch Linucks btw!                       \
-|      (I'm no Developer, so pls use my code w/ caution!)    |
-|   ____ _               ____            _     _ _           |
-|  / ___| | __ _ ___ ___|  _ \ _   _  __| | __| | | ___ ___  |
-| | |  _| |/ _` / __/ __| |_) | | | |/ _` |/ _` | |/ _ / __| |
-| | |_| | | (_| \__ \__ |  __/| |_| | (_| | (_| | |  __\__ \ |
-|  \____|_|\__,_|___|___|_|    \__,_|\__,_|\__,_|_|\___|___/ |
-|                                                            |
-|                         as always...                       | 
-|              Free Palestine! Liberate Gaza!                |
- \__________________________________________________________/
-  
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||  
+<img width="495" height="370" alt="image" src="https://github.com/user-attachments/assets/8736f76c-b467-4e09-8e91-544d717dc0de" />
 
 <!--
 **GlassPuddle/GlassPuddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
